@@ -1,0 +1,15 @@
+- type: foodSequenceElement
+  id: MickIvoryPlushie
+  name:  food-sequence-cotton-burger-content-plushie-mick-ivory
+  scale: 0.75, 0.75
+  sprites:
+  - sprite: _Clover/Objects/Fun/Plushies/ivory.rsi
+    state: icon
+
+- type: foodSequenceElement
+  id: ScolipedePlushie
+  name:  food-sequence-cotton-burger-content-plushie-scolipede
+  scale: 0.75, 0.75
+  sprites:
+  - sprite: _Clover/Objects/Fun/Plushies/scolipede.rsi
+    state: icon

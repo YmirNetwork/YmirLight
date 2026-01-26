@@ -1,0 +1,1 @@
+station-event-gira-spawn-announcement = A mysterious "head entity" has appeared somewhere on the station... what the deal is with him

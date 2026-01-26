@@ -1,0 +1,15 @@
+{
+    "copyright": "Made by Minkalicious https://github.com/minkalicious",
+    "license": "CC-BY-SA-3.0",
+    "size": {
+        "x": 45,
+        "y": 45
+    },
+    "states": [
+        {
+            "directions": 1,
+            "name": "gira"
+        }
+    ],
+    "version": 1
+}

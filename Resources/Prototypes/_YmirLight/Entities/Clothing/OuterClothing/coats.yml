@@ -1,0 +1,45 @@
+- type: entity # Clover
+  parent: [ClothingOuterStorageBase, AllowSuitStorageClothing, ClothingOuterArmorBase]
+  id: ClothingOuterJamrock
+  name: jamrock blazer
+  description: The limbed and headed machine of pain and undignified suffering is firing up again. It wants to walk the desert. Hurting. Longing. Dancing to disco music.
+  components:
+  - type: Sprite
+    sprite: _Clover/Clothing/OuterClothing/Coats/jamrock.rsi
+  - type: Clothing
+    sprite: _Clover/Clothing/OuterClothing/Coats/jamrock.rsi
+  - type: StorageFill
+    contents:
+    - id: SmokingPipeFilledTobacco
+    - id: FlippoEngravedLighter
+  - type: ExplosionResistance
+    damageCoefficient: 1
+
+- type: entity # Clover
+  parent: [ClothingOuterStorageBase, AllowSuitStorageClothing, ClothingOuterArmorBase]
+  id: ClothingOuterAerostatic
+  name: aerostatic bomber
+  description: "A man once said, \"I did 15 years in the Juvenile Crime Unit. I can do age-inappropriate - Now check this shit out\"."
+  components:
+  - type: Sprite
+    sprite: _Clover/Clothing/OuterClothing/Coats/aerostatic.rsi
+  - type: Clothing
+    sprite: _Clover/Clothing/OuterClothing/Coats/aerostatic.rsi
+  - type: StorageFill
+    contents:
+    - id: SmokingPipeFilledTobacco
+    - id: FlippoEngravedLighter
+  - type: ExplosionResistance
+    damageCoefficient: 1 
+
+- type: entity
+  parent: [ClothingOuterStorageBase]
+  id: ClothingOuterCoatIoan
+  name: ioan's coat
+  description: It's showtime, my friend!
+  components:
+  - type: Sprite
+    sprite: _Clover/Clothing/OuterClothing/Coats/ioan.rsi
+  - type: Clothing
+    sprite: _Clover/Clothing/OuterClothing/Coats/ioan.rsi
+
