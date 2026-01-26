@@ -9,7 +9,7 @@
 [![Client](https://img.shields.io/badge/Client-Download-blue)](https://spacestation14.io/about/nightlies/)
 [![GitHub](https://img.shields.io/github/stars/ss14Starlight/space-station-14?style=social)]([https://github.com/ss14Starlight/space-station-14])
 
-# STARLIGHT  
+# YMIRLIGHT  
 <sub>Space-Station 14</sub>
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ss14Starlight/space-station-14)
@@ -18,7 +18,7 @@
 
 </div>
 
-STARLIGHT is an open source project aimed at creating unique mechanics and a pleasant game atmosphere in the game Space Station 14, 
+YmirLight is an open source project aimed at creating unique mechanics and a pleasant game atmosphere in the game Space Station 14, 
 
 a game about survival on a space station where there are constant confrontations between the crew and antagonists created to prevent the crew from achieving their goals.
 
@@ -34,7 +34,8 @@ Space-Station 14 has [docs site](https://docs.spacestation14.io/) documentation 
 ## License
 
 > [!CAUTION]
-> The repository code is licensed both under MIT - this applies to Space Wizards Federation code - and under modified MIT - this applies to our changes.
+> The repository code is licensed both under MIT - this applies to Space Wizards Federation code - and under modified MIT - this applies to starlight's changes.
+> YmirLight's changes are gonna be the FreeBSD license (SPDX:	BSD-2-Clause)
 
 ### Click each banner for further information
 
@@ -49,5 +50,5 @@ Space-Station 14 has [docs site](https://docs.spacestation14.io/) documentation 
 <details>
 <summary><a href="#"><img src="https://img.shields.io/badge/licence-CC_3.0_BY--SA-lightblue?style=for-the-badge" alt="Creative Commons 3.0 BY-SA"></a></summary>
 
->All other non-code STARLIGHT Assets, including icons and sound files, are licensed under the [Creative Commons 3.0 BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) license unless otherwise noted in the folder or file.
+>All other non-code STARLIGHT and YmirLight Assets, including icons and sound files, are licensed under the [Creative Commons 3.0 BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) license unless otherwise noted in the folder or file.
 </details>
