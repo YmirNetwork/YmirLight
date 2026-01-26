@@ -4,17 +4,10 @@
 
 <div class="header" align="center">
 
-[![Discord](https://img.shields.io/discord/1272545509562777621?label=Discord&logo=discord&logoColor=white)](https://discord.gg/ru664Z69UC)
-[![Steam](https://img.shields.io/badge/Steam-SS14%20-blue)](https://store.steampowered.com/app/1255460/Space_Station_14/)
-[![Client](https://img.shields.io/badge/Client-Download-blue)](https://spacestation14.io/about/nightlies/)
-[![GitHub](https://img.shields.io/github/stars/ss14Starlight/space-station-14?style=social)]([https://github.com/ss14Starlight/space-station-14])
+[Discord](https://discord.gg/ru664Z69UC/)
 
 # YMIRLIGHT  
 <sub>Space-Station 14</sub>
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ss14Starlight/space-station-14)
-![GitHub Issues](https://img.shields.io/github/issues/ss14Starlight/space-station-14)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr-closed/ss14Starlight/space-station-14)
 
 </div>
 
