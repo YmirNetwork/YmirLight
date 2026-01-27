@@ -1,4 +1,4 @@
-#THIS IS THE CLOVER HARDSUITS
+#Ymirlight
 
   - type: entity
     parent: ClothingOuterHardsuitBase
@@ -7,9 +7,9 @@
     description: "You feel like jumping into a planet with fifty stims and a railgun attached."
     components:
     - type: Clothing
-      sprite: /Textures/_Clover/Clothing/OuterClothing/Hardsuits/uesc_hardsuit.rsi
+      sprite: /Textures/_Ymirlight/Clothing/OuterClothing/Hardsuits/uesc_hardsuit.rsi
     - type: Sprite
-      sprite: /Textures/_Clover/Clothing/OuterClothing/Hardsuits/uesc_hardsuit.rsi
+      sprite: /Textures/_Ymirlight/Clothing/OuterClothing/Hardsuits/uesc_hardsuit.rsi
     - type: PressureProtection
       highPressureMultiplier: 0.02
       lowPressureMultiplier: 1000

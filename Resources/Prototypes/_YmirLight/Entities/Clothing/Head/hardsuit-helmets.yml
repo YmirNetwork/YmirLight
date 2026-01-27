@@ -1,4 +1,4 @@
-#CLOVER HARDSUIT HELMETS
+#Ymirlight HARDSUIT HELMETS
 - type: entity
   parent: ClothingHeadHardsuitBase
   id: ClothingHeadHelmetHardsuitUESC
@@ -7,9 +7,9 @@
   components:
   - type: BreathMask
   - type: Clothing
-    sprite: /Textures/_Clover/Clothing/Head/Helmets/uesc_helmet.rsi
+    sprite: /Textures/_Ymirlight/Clothing/Head/Helmets/uesc_helmet.rsi
   - type: Sprite
-    sprite: /Textures/_Clover/Clothing/Head/Helmets/uesc_helmet.rsi
+    sprite: /Textures/_Ymirlight/Clothing/Head/Helmets/uesc_helmet.rsi
   - type: PointLight
     color: "#FFFFFF"
     radius: 5

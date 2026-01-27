@@ -5,9 +5,9 @@
   description: Motherfuckin' hardcore!
   components:
     - type: Sprite
-      sprite: /Textures/_Clover/Clothing/Uniforms/gabber.rsi
+      sprite: /Textures/_Ymirlight/Clothing/Uniforms/gabber.rsi
     - type: Clothing
-      sprite: /Textures/_Clover/Clothing/Uniforms/gabber.rsi
+      sprite: /Textures/_Ymirlight/Clothing/Uniforms/gabber.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -16,9 +16,9 @@
   description: Much motherfuckin' wicked clown love.
   components:
     - type: Sprite
-      sprite: /Textures/_Clover/Clothing/Uniforms/juggalo.rsi
+      sprite: /Textures/_Ymirlight/Clothing/Uniforms/juggalo.rsi
     - type: Clothing
-      sprite: /Textures/_Clover/Clothing/Uniforms/juggalo.rsi
+      sprite: /Textures/_Ymirlight/Clothing/Uniforms/juggalo.rsi
 
 - type: entity # Sec corporate
   parent: ClothingUniformBase
@@ -27,9 +27,9 @@
   description: A Formal Suit repurposed from a bygone age, includes a department specific armband to easily identify you! Though, try to avoid covering it with any coats.
   components:
     - type: Sprite
-      sprite: /Textures/_Clover/Clothing/Uniforms/corpsec.rsi
+      sprite: /Textures/_Ymirlight/Clothing/Uniforms/corpsec.rsi
     - type: Clothing
-      sprite: /Textures/_Clover/Clothing/Uniforms/corpsec.rsi
+      sprite: /Textures/_Ymirlight/Clothing/Uniforms/corpsec.rsi
 
 - type: entity # Med corporate
   parent: ClothingUniformBase
@@ -38,9 +38,9 @@
   description: A Formal Suit repurposed from a bygone age, includes a department specific armband to easily identify you! Though, try to avoid covering it with any coats.
   components:
     - type: Sprite
-      sprite: /Textures/_Clover/Clothing/Uniforms/corpmed.rsi
+      sprite: /Textures/_Ymirlight/Clothing/Uniforms/corpmed.rsi
     - type: Clothing
-      sprite: /Textures/_Clover/Clothing/Uniforms/corpmed.rsi
+      sprite: /Textures/_Ymirlight/Clothing/Uniforms/corpmed.rsi
 
 - type: entity # Eng corporate
   parent: ClothingUniformBase
@@ -49,9 +49,9 @@
   description: A Formal Suit repurposed from a bygone age, includes a department specific armband to easily identify you! Though, try to avoid covering it with any coats.
   components:
     - type: Sprite
-      sprite: /Textures/_Clover/Clothing/Uniforms/corpeng.rsi
+      sprite: /Textures/_Ymirlight/Clothing/Uniforms/corpeng.rsi
     - type: Clothing
-      sprite: /Textures/_Clover/Clothing/Uniforms/corpeng.rsi
+      sprite: /Textures/_Ymirlight/Clothing/Uniforms/corpeng.rsi
 
 - type: entity # RD corporate
   parent: ClothingUniformBase
@@ -60,9 +60,9 @@
   description: A Formal Suit repurposed from a bygone age, includes a department specific armband to easily identify you! Though, try to avoid covering it with any coats.
   components:
     - type: Sprite
-      sprite: /Textures/_Clover/Clothing/Uniforms/corprd.rsi
+      sprite: /Textures/_Ymirlight/Clothing/Uniforms/corprd.rsi
     - type: Clothing
-      sprite: /Textures/_Clover/Clothing/Uniforms/corprd.rsi
+      sprite: /Textures/_Ymirlight/Clothing/Uniforms/corprd.rsi
 
 - type: entity # Sci corporate
   parent: ClothingUniformBase
@@ -71,9 +71,9 @@
   description: A Formal Suit repurposed from a bygone age, includes a department specific armband to easily identify you! Though, try to avoid covering it with any coats.
   components:
     - type: Sprite
-      sprite: /Textures/_Clover/Clothing/Uniforms/corpsci.rsi
+      sprite: /Textures/_Ymirlight/Clothing/Uniforms/corpsci.rsi
     - type: Clothing
-      sprite: /Textures/_Clover/Clothing/Uniforms/corpsci.rsi
+      sprite: /Textures/_Ymirlight/Clothing/Uniforms/corpsci.rsi
       
 - type: entity # Cargo corporate
   parent: ClothingUniformBase
@@ -82,9 +82,9 @@
   description: A Formal Suit repurposed from a bygone age, includes a department specific armband to easily identify you! Though, try to avoid covering it with any coats.
   components:
     - type: Sprite
-      sprite: /Textures/_Clover/Clothing/Uniforms/corpcargo.rsi
+      sprite: /Textures/_Ymirlight/Clothing/Uniforms/corpcargo.rsi
     - type: Clothing
-      sprite: /Textures/_Clover/Clothing/Uniforms/corpcargo.rsi
+      sprite: /Textures/_Ymirlight/Clothing/Uniforms/corpcargo.rsi
 
 - type: entity # Service corporate
   parent: ClothingUniformBase
@@ -93,6 +93,6 @@
   description: A Formal Suit repurposed from a bygone age, includes a department specific armband to easily identify you! Though, try to avoid covering it with any coats.
   components:
     - type: Sprite
-      sprite: /Textures/_Clover/Clothing/Uniforms/corpserv.rsi
+      sprite: /Textures/_Ymirlight/Clothing/Uniforms/corpserv.rsi
     - type: Clothing
-      sprite: /Textures/_Clover/Clothing/Uniforms/corpserv.rsi
+      sprite: /Textures/_Ymirlight/Clothing/Uniforms/corpserv.rsi

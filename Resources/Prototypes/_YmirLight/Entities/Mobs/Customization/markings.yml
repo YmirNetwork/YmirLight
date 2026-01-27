@@ -5,5 +5,16 @@
   speciesRestriction: [Human, Dwarf, Reptilian, SlimePerson, Moth, Arachnid, Diona]
   followSkinColor: false
   sprites:
-  - sprite: _Clover/Mobs/Customization/stitchface.rsi
+  - sprite: _Ymirlight/Mobs/Customization/stitchface.rsi
     state: "stitchface"
+
+
+- type: marking
+  id: ChildOfGod
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [Human, Dwarf, Reptilian, SlimePerson, Moth, Arachnid, Diona]
+  followSkinColor: false
+  sprites:
+  - sprite: _Ymirlight/Mobs/Customization/childofgod.rsi
+    state: "childofgod"

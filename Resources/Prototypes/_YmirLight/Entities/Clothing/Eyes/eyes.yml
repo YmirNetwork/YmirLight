@@ -5,9 +5,9 @@
   description: A heads-up display used by vampire hunters to track supernatural activity and vital signs.
   components:
   - type: Sprite
-    sprite: /Textures/_Clover/Clothing/Eyes/vamphunt.rsi
+    sprite: /Textures/_Ymirlight/Clothing/Eyes/vamphunt.rsi
   - type: Clothing
-    sprite: /Textures/_Clover/Clothing/Eyes/vamphunt.rsi
+    sprite: /Textures/_Ymirlight/Clothing/Eyes/vamphunt.rsi
   - type: Tag
     tags:
     - HudSecurity
@@ -20,9 +20,9 @@
   description: "THE H'GH PR'EST OF ANT'CRA... Makes you look stylish while serving justice and swinging your hammers around."
   components:
   - type: Sprite
-    sprite: _Clover/Clothing/Eyes/dragory.rsi
+    sprite: _Ymirlight/Clothing/Eyes/dragory.rsi
   - type: Clothing
-    sprite: _Clover/Clothing/Eyes/dragory.rsi
+    sprite: _Ymirlight/Clothing/Eyes/dragory.rsi
   - type: Item
   - type: MeleeWeapon
     damage:

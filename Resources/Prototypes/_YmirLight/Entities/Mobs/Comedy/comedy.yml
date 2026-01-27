@@ -12,7 +12,7 @@
     #- type: Vocal TODO FIX
     #  id: Gira
     - type: Sprite
-      sprite: _Clover/Mobs/Comedy/gira.rsi
+      sprite: _Ymirlight/Mobs/Comedy/gira.rsi
       state: gira
     - type: HTN
       rootTask:
@@ -21,9 +21,9 @@
       interactSuccessString: petting-success-gira
       interactFailureString: petting-failure-gira
       interactSuccessSound:
-        path: /Audio/_Clover/Comedy/gira_pet.ogg
+        path: /Audio/_Ymirlight/Comedy/gira_pet.ogg
       interactFailureSound:
-        path: /Audio/_Clover/Comedy/gira_scream.ogg
+        path: /Audio/_Ymirlight/Comedy/gira_scream.ogg
     - type: Vocalizer
     - type: DatasetVocalizer
       dataset: GiraSay
