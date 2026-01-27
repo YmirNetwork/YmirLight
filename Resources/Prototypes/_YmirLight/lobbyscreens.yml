@@ -1,0 +1,15 @@
+- type: lobbyBackground # Ymirlight
+  id: ComplicitSilence
+  background: /Textures/LobbyScreens/complicitsilence.webp
+
+- type: lobbyBackground # Ymirlight
+  id: Carps
+  background: /Textures/LobbyScreens/carps.jpg
+
+- type: lobbyBackground # Ymirlight
+  id: Window
+  background: /Textures/LobbyScreens/window.png
+
+- type: lobbyBackground # Ymirlight
+  id: Maints
+  background: /Textures/LobbyScreens/maints.jpg
