@@ -1,0 +1,98 @@
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitGabber
+  name: gabber jumpsuit
+  description: Motherfuckin' hardcore!
+  components:
+    - type: Sprite
+      sprite: /Textures/_Clover/Clothing/Uniforms/gabber.rsi
+    - type: Clothing
+      sprite: /Textures/_Clover/Clothing/Uniforms/gabber.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitJuggalo
+  name: hatchetman shirt and pants
+  description: Much motherfuckin' wicked clown love.
+  components:
+    - type: Sprite
+      sprite: /Textures/_Clover/Clothing/Uniforms/juggalo.rsi
+    - type: Clothing
+      sprite: /Textures/_Clover/Clothing/Uniforms/juggalo.rsi
+
+- type: entity # Sec corporate
+  parent: ClothingUniformBase
+  id: ClothingUniformCorporateSec
+  name: security corporate suit
+  description: A Formal Suit repurposed from a bygone age, includes a department specific armband to easily identify you! Though, try to avoid covering it with any coats.
+  components:
+    - type: Sprite
+      sprite: /Textures/_Clover/Clothing/Uniforms/corpsec.rsi
+    - type: Clothing
+      sprite: /Textures/_Clover/Clothing/Uniforms/corpsec.rsi
+
+- type: entity # Med corporate
+  parent: ClothingUniformBase
+  id: ClothingUniformCorporateMed
+  name: medical corporate suit
+  description: A Formal Suit repurposed from a bygone age, includes a department specific armband to easily identify you! Though, try to avoid covering it with any coats.
+  components:
+    - type: Sprite
+      sprite: /Textures/_Clover/Clothing/Uniforms/corpmed.rsi
+    - type: Clothing
+      sprite: /Textures/_Clover/Clothing/Uniforms/corpmed.rsi
+
+- type: entity # Eng corporate
+  parent: ClothingUniformBase
+  id: ClothingUniformCorporateEng
+  name: engineering corporate suit
+  description: A Formal Suit repurposed from a bygone age, includes a department specific armband to easily identify you! Though, try to avoid covering it with any coats.
+  components:
+    - type: Sprite
+      sprite: /Textures/_Clover/Clothing/Uniforms/corpeng.rsi
+    - type: Clothing
+      sprite: /Textures/_Clover/Clothing/Uniforms/corpeng.rsi
+
+- type: entity # RD corporate
+  parent: ClothingUniformBase
+  id: ClothingUniformCorporateRD
+  name: research director corporate suit
+  description: A Formal Suit repurposed from a bygone age, includes a department specific armband to easily identify you! Though, try to avoid covering it with any coats.
+  components:
+    - type: Sprite
+      sprite: /Textures/_Clover/Clothing/Uniforms/corprd.rsi
+    - type: Clothing
+      sprite: /Textures/_Clover/Clothing/Uniforms/corprd.rsi
+
+- type: entity # Sci corporate
+  parent: ClothingUniformBase
+  id: ClothingUniformCorporateSci
+  name: science corporate suit
+  description: A Formal Suit repurposed from a bygone age, includes a department specific armband to easily identify you! Though, try to avoid covering it with any coats.
+  components:
+    - type: Sprite
+      sprite: /Textures/_Clover/Clothing/Uniforms/corpsci.rsi
+    - type: Clothing
+      sprite: /Textures/_Clover/Clothing/Uniforms/corpsci.rsi
+      
+- type: entity # Cargo corporate
+  parent: ClothingUniformBase
+  id: ClothingUniformCorporateCargo
+  name: cargo corporate suit
+  description: A Formal Suit repurposed from a bygone age, includes a department specific armband to easily identify you! Though, try to avoid covering it with any coats.
+  components:
+    - type: Sprite
+      sprite: /Textures/_Clover/Clothing/Uniforms/corpcargo.rsi
+    - type: Clothing
+      sprite: /Textures/_Clover/Clothing/Uniforms/corpcargo.rsi
+
+- type: entity # Service corporate
+  parent: ClothingUniformBase
+  id: ClothingUniformCorporateServ
+  name: service corporate suit
+  description: A Formal Suit repurposed from a bygone age, includes a department specific armband to easily identify you! Though, try to avoid covering it with any coats.
+  components:
+    - type: Sprite
+      sprite: /Textures/_Clover/Clothing/Uniforms/corpserv.rsi
+    - type: Clothing
+      sprite: /Textures/_Clover/Clothing/Uniforms/corpserv.rsi

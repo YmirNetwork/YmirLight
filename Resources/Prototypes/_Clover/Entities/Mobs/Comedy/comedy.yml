@@ -1,0 +1,61 @@
+- type: entity
+  parent:
+    - BaseMob
+    - MobPolymorphable
+  id: MobGira
+  name: Michael Gira
+  description: I am the Sun.
+  components:
+    - type: Speech
+      speechVerb: Default
+      speechSounds: Gira
+    #- type: Vocal TODO FIX
+    #  id: Gira
+    - type: Sprite
+      sprite: _Clover/Mobs/Comedy/gira.rsi
+      state: gira
+    - type: HTN
+      rootTask:
+        task: IdleCompound
+    - type: InteractionPopup
+      interactSuccessString: petting-success-gira
+      interactFailureString: petting-failure-gira
+      interactSuccessSound:
+        path: /Audio/_Clover/Comedy/gira_pet.ogg
+      interactFailureSound:
+        path: /Audio/_Clover/Comedy/gira_scream.ogg
+    - type: Vocalizer
+    - type: DatasetVocalizer
+      dataset: GiraSay
+    - type: DoAfter
+    #- type: Pullable // THERE'S A BUG THAT LITERALLY KILLS YOUR GAME BECAUSE MICHAEL GIRA IS TOO FUCKING STRONG
+    - type: MovementSpeedModifier
+      baseWalkSpeed: 4
+      baseSprintSpeed: 4
+    - type: MobThresholds
+      thresholds:
+        0: Alive
+        300: Critical
+        350: Dead
+    - type: Damageable
+    - type: GhostRole
+      name: Gira
+      description: And I am the sun, I rise above the world, And when the light goes out, I kill another child.
+      reregister: false # no duplicate giras
+    - type: GhostTakeoverAvailable
+    - type: GhostHearing
+    - type: ComplexInteraction
+    - type: CombatMode
+    - type: Physics
+      ignorePaused: true
+      bodyType: Kinematic
+    - type: Pacified
+
+
+
+
+- type: localizedDataset
+  id: GiraSay
+  values:
+    prefix: gira-say-
+    count: 17
