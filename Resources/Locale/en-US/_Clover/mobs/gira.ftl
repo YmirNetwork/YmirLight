@@ -1,0 +1,17 @@
+gira-say-1 = I am the sun.
+gira-say-2 = THE SEX IN YOUR SOUL WILL DAMN YOU TO HELL!
+gira-say-3 = DAMN YOU TO HELL!
+gira-say-4 = FLEX YOUR MUSCLES!
+gira-say-5 = THIS ISN'T REAL.
+gira-say-6 = Why hide?
+gira-say-7 = I see it all.
+gira-say-8 = I am blind...
+gira-say-9 = You blacken my innocence with sugar and opium.
+gira-say-10 = Love will save you, but it won't save me.
+gira-say-11 = God damn the sun.
+gira-say-12 = Bury my mind.
+gira-say-13 = Mind, Body, Light, Sound.
+gira-say-14 = You're not real.
+gira-say-15 = YOU OWN ME.
+gira-say-16 = TAKE CONTROL AND KEEP IT!
+gira-say-17 = Sha la la...
