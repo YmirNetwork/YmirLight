@@ -15,3 +15,6 @@ gira-say-14 = You're not real.
 gira-say-15 = YOU OWN ME.
 gira-say-16 = TAKE CONTROL AND KEEP IT!
 gira-say-17 = Sha la la...
+
+petting-success-gira = You pet {THE($target)} through his hat.
+petting-failure-gira = You reach out to pet {THE($target)}, but he dodges and looks at you like he will skin you alive.
