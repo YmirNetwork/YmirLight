@@ -1,0 +1,96 @@
+- type: jukebox
+  id: laughter
+  name: 3log! - Laughterhouse (mptm)
+  path:
+    path: /Audio/Jukebox/laughterhousemptm.ogg
+
+- type: jukebox
+  id: breakofdawn
+  name: Bang! - Break of Dawn
+  path:
+    path: /Audio/Jukebox/breakofdawn.ogg
+
+- type: jukebox
+  id: flatline
+  name: Simon Harris - Flatliners (Yell-O Phase Remix)
+  path:
+    path: /Audio/Jukebox/flatliners.ogg
+
+- type: jukebox
+  id: lobcorp
+  name: Dr. ReB - Hokma Suppression
+  path:
+    path: /Audio/Jukebox/lobcorp.ogg
+
+- type: jukebox
+  id: nwo
+  name: Michaelanthony - Are you ready for ze new world order?
+  path:
+    path: /Audio/Jukebox/nwo.ogg
+
+- type: jukebox
+  id: megahit
+  name: Megahit - Chrome Type Fire
+  path:
+    path: /Audio/Jukebox/megahit.ogg
+
+- type: jukebox
+  id: merchant
+  name: 3log! - Merchant.
+  path:
+    path: /Audio/Jukebox/merchant.ogg
+
+- type: jukebox
+  id: square1
+  name: 3log! - square1 (mptm)
+  path:
+    path: /Audio/Jukebox/square1mptm.ogg
+
+- type: jukebox
+  id: shootingstar
+  name: Bang! - Shooting Star (Hixxy Remix)
+  path:
+    path: /Audio/Jukebox/shooting.ogg
+
+
+#- type: jukebox axed due to inappropriate content
+#  id: meatylance
+#  name: SUMPP - Meaty Lance
+#  path:
+#    path: /Audio/Jukebox/meatylance.ogg
+
+- type: jukebox
+  id: lwtua
+  name: Swans - Love Will Tear Us Apart
+  path:
+    path: /Audio/Jukebox/lwtua.ogg
+
+- type: jukebox
+  id: the_future_soon
+  name: Jonathan Coulton - The Future Soon
+  path:
+    path: /Audio/Lobby/the_future_soon.ogg
+
+- type: jukebox
+  id: traitorous
+  name: mrjajkes - Traitorous Intent
+  path:
+    path: /Audio/Jukebox/traitorous.ogg  
+
+- type: jukebox
+  id: "1812"
+  name: Melodica Men - 1812 Overture
+  path:
+    path: /Audio/Jukebox/1812.ogg  
+
+- type: jukebox
+  id: melcom
+  name: Melcom - Cyberpunk
+  path:
+    path: /Audio/Jukebox/melcom.ogg
+
+- type: jukebox
+  id: adr
+  name: Andreas Viklund - A different reality (Lagoona Mix)
+  path:
+    path: /Audio/Jukebox/ADR.ogg

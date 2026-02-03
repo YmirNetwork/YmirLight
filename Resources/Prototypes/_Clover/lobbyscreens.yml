@@ -1,0 +1,15 @@
+- type: lobbyBackground # Clover
+  id: ComplicitSilence
+  background: /Textures/_Clover/LobbyScreens/complicitsilence.webp
+
+- type: lobbyBackground # Clover
+  id: Carps
+  background: /Textures/_Clover/LobbyScreens/carps.jpg
+
+- type: lobbyBackground # Clover
+  id: Window
+  background: /Textures/_Clover/LobbyScreens/window.png
+
+- type: lobbyBackground # Clover
+  id: Maints
+  background: /Textures/_Clover/LobbyScreens/maints.jpg
